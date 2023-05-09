@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi! I am Arnela, a former computer science student who returns after 6 years in this field.
 
 <!--
 **ArnelaKapllani/ArnelaKapllani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
