@@ -1,4 +1,4 @@
-### Hi! I am Arnela, a former computer science student who returns after 6 years in this field.
+### Hi✋! I am Arnela, a former computer science student who returns after 6 years in this field.
 
 <!--
 **ArnelaKapllani/ArnelaKapllani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 -->
 ### About me
 
-- 🇦🇱From Albania
+- 🇦🇱from Albania
 - 📍Frankfurt since 2016
+- 👩‍🍳love cooking and 🍷
+- 👩‍💻Web Development student @neuefische 
 
