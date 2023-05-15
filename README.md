@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 ### About me
 
  🇦🇱from Albania
-- 📍Frankfurt since 2016
-- 👩‍💻Web Development student @neuefische 
-- 👩‍🍳love cooking,🍷 and nature 
+ 📍Frankfurt since 2016
+ 👩‍💻Web Development student @neuefische 
+ 👩‍🍳love cooking,🍷 and nature 
 
 
